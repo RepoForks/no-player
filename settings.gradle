@@ -1,2 +1,3 @@
 include ':core'
+include ':exoplayer2'
 include ':demo'
